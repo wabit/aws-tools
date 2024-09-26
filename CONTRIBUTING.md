@@ -1,6 +1,6 @@
-# Contributing to My CLI App
+# Contributing to aws-tools
 
-First off, thank you for considering contributing to My CLI App! Your help is greatly appreciated.
+First off, thank you for considering contributing to aws-tools! Your help is greatly appreciated.
 
 ## How to Contribute
 
