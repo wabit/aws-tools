@@ -6,9 +6,9 @@
 
 ### Features
 
-- **Task Automation**: Automate repetitive tasks to save time and reduce errors.
-- **User-Friendly Commands**: Intuitive and easy-to-remember commands.
-- **Cross-Platform**: Compatible with major operating systems including macOS, and Linux.
+- **Log into AWS**: easily see which profiles you have configued, and with a quick selection lets you log in.
+- **Log into EKS**: manage which clusters use what profile and easily update your kube config.
+- **Cross-Platform**: Compatible with both macOS, and Linux.
 
 ### Getting Started
 
