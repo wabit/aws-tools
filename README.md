@@ -7,7 +7,7 @@
 ### Features
 
 - **Log into AWS**: easily see which profiles you have configued, and with a quick selection lets you log in.
-- **Log into EKS**: manage which clusters use what profile and easily update your kube config.
+- **Log into EKS**: manage which clusters use what profile and easily update your kube config. it will deal with the aws login.
 - **Cross-Platform**: Compatible with both macOS, and Linux.
 
 ### Getting Started
